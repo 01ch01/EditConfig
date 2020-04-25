@@ -2,7 +2,7 @@
 A set of all my preffered configs
 
 ### config
-[Terminator](https://gnometerminator.blogspot.com/p/introduction.html) config file with [Dracula](https://draculatheme.com) theme, and a backup profile, with the same name. Be attention to "title" name; put *youruser@domain*. Besides, you'll need to install [Fira Code](github.com/tonsky/FiraCode) font for that works.
+[Terminator](https://gnometerminator.blogspot.com/p/introduction.html) config file with [Dracula](https://draculatheme.com) theme, and a backup profile, with the same name. Be attention to "title" name; put *youruser@domain*. Besides, you'll need to install [Fira Code](https://github.com/tonsky/FiraCode) font for that works.
 The file need to be replaced on `$HOME/.config/terminator/config` (on Ubuntu-based systems).
 
 ### .hyper.js
