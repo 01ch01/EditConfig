@@ -53,4 +53,5 @@
     "git.enableSmartCommit": true,
     "breadcrumbs.enabled": false,
     "editor.minimap.enabled": false,
+    "javascript.format.semicolons": "insert"
 }
