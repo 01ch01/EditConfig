@@ -12,7 +12,7 @@ The file need to be replaced on `$HOME/.config/terminator/config`.
 [Vim](https://www.vim.org/) config file. First, type on your terminal `sudo apt install vim -y` to install VIM. This file need to be replaced on `$HOME/.vimrc`.
 
 ## vscode/ - Visual Studio Code keybindings and settings
-`settings.json` and `keybindings.json` must be moved to $HOME/.config/Code/User/ (if you installed VS Code by snap store, google it for other types of installation (apt, flatpak etc)).
+`settings.json` and `keybindings.json` must be moved to `$HOME/.config/Code/User/`.
 
 ### Visual Studio Code Extensions:
 To install these extensions, launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
