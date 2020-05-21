@@ -28,3 +28,4 @@ To install these extensions, launch VS Code Quick Open (Ctrl+P), paste the follo
 - Rainbow Brackets &rarr; `ext install 2gua.rainbow-brackets`
 - VSCode HackerTyper &rarr; `ext install jevakallio.vscode-hacker-typer`
 - vscode-styled-components &rarr; `ext install jpoissonnier.vscode-styled-components`
+- Python &rarr; `ext install angelo-breuer.clock`
