@@ -17,6 +17,7 @@ The file need to be replaced on `$HOME/.config/terminator/config`.
 ### Visual Studio Code Extensions:
 To install these extensions, launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 - C/C++ &rarr; `ext install ms-vscode.cpptools`
+- Clock &rarr; `ext install angelo-breuer.clock`
 - Color Highlight &rarr; `ext install naumovs.color-highlight`
 - Dracula Official &rarr; `ext install dracula-theme.theme-dracula`
 - ESLint &rarr; `ext install dbaeumer.vscode-eslint`
@@ -28,4 +29,3 @@ To install these extensions, launch VS Code Quick Open (Ctrl+P), paste the follo
 - Rainbow Brackets &rarr; `ext install 2gua.rainbow-brackets`
 - VSCode HackerTyper &rarr; `ext install jevakallio.vscode-hacker-typer`
 - vscode-styled-components &rarr; `ext install jpoissonnier.vscode-styled-components`
-- Python &rarr; `ext install angelo-breuer.clock`
