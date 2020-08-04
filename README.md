@@ -30,3 +30,4 @@ To install these extensions, launch VS Code Quick Open (Ctrl+P), paste the follo
 - VSCode HackerTyper &rarr; `ext install jevakallio.vscode-hacker-typer`
 - vscode-styled-components &rarr; `ext install jpoissonnier.vscode-styled-components`
 - Quit Control for VSCode &rarr; `ext install artdiniz.quitcontrol-vscode`
+- Sort lines &rarr; `ext install tyriar.sort-lines`
