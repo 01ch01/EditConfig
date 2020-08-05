@@ -28,5 +28,22 @@
     "key": "ctrl+shift+backspace",
     "command": "deleteWordPartRight",
     "when": "textInputFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+y ctrl+u",
+    "command": "git.push"
+  },
+  {
+    "key": "shift+alt+right",
+    "command": "-editor.action.smartSelect.expand",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+alt+right",
+    "command": "workbench.action.splitEditorRight"
+  },
+  {
+    "key": "ctrl+j ctrl+i",
+    "command": "workbench.action.openSettingsJson"
   }
 ]
