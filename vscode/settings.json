@@ -1,58 +1,33 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "python.pythonPath": "/usr/bin/python3",
-    "telemetry.enableCrashReporter": false,
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    
-    "workbench.colorTheme": "Dracula",
-    "editor.tabSize": 2,
-    "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.cursorBlinking": true,
-    "telemetry.enableTelemetry":false,
+  "editor.autoClosingQuotes": "always",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "editor.quickSuggestionsDelay": 0,
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
 
-    // Configura tamanho e família da fonte
-    "editor.fontSize": 14,
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "explorer.compactFolders": false,
-    // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
-    "editor.rulers": [
-        80,
-        120
-    ],
-    "editor.formatOnSave": false,
-    "eslint.packageManager": "yarn",
-    "[javascript]": {
-        "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true,
-        }
-    },
-    "[javascriptreact]": {
-        "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true,
-        }
-    },
-    "[typescript]": {
-        "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true,
-        }
-    },
-    "[typescriptreact]": {
-        "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true,
-        }
-    },
-    "files.associations": {
-        ".sequelizerc": "javascript",
-        ".stylelintrc": "json",
-        ".prettierrc": "json"
-    },
-    // Aplica um sinal visual na esquerda da linha selecionada
-    "editor.renderLineHighlight": "gutter",
-    "extensions.ignoreRecommendations": true,
-    "git.enableSmartCommit": true,
-    "breadcrumbs.enabled": false,
-    "editor.minimap.enabled": false,
-    "javascript.format.semicolons": "insert"
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+
+  "workbench.colorTheme": "Launchbase Theme",
+  "workbench.startupEditor": "newUntitledFile",
+
+  "zenMode.hideLineNumbers": false
 }
